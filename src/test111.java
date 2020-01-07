@@ -1,6 +1,8 @@
 
 public class test111 {
 	
-	String abc;
+	String abcd;
+	String abc123;
+	
 
 }
